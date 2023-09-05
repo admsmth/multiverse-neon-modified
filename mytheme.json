@@ -33,6 +33,15 @@
               }
           }
         },
+       {
+          "type": "python",
+          "style": "diamond",
+          "trailing_diamond": "\uE0B4",
+          "leading_diamond": " \uE0B6",
+          "foreground": "#100e23",
+          "background": "#906cff",
+          "template": "\ue73c {{ .Full }} "
+        },
         {
           "type": "git",
           "style": "diamond",
