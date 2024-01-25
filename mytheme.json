@@ -33,7 +33,7 @@
               }
           }
         },
-       {
+        {
           "type": "python",
           "style": "diamond",
           "trailing_diamond": "\uE0B4",
